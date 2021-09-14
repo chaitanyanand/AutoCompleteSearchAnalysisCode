@@ -9,5 +9,5 @@ Compared various data structures and algorithms such as naive approach(using bin
 3.Enter the query prefix.<br/>
 3.Top 3 suggestions are printed out in console.
 # Snapshots
-![Screenshot (965)](https://user-images.githubusercontent.com/64676780/132272878-78758877-6819-46cb-920d-d244b4aea945.png)<br/>
+![Screenshot (971)](https://user-images.githubusercontent.com/64676780/133203288-94e4d857-face-4d67-a6f2-562834bcd0c4.png)<br/>
  The words in the dictionary are shown at the top with their respective weights. The user entered a prefix and as the number of outcomes we gave are 3,the top three suggestions are out.
