@@ -10,4 +10,4 @@ Compared various data structures and algorithms such as naive approach(using bin
 3.Top 3 suggestions are printed out in console.
 # Snapshots
 ![Screenshot (972)](https://user-images.githubusercontent.com/64676780/133203636-84130c3b-b4a0-4a69-8892-8f30bfc64459.png)<br/>
- The words in the dictionary are shown at the top with their respective weights. The user entered a prefix and as the number of outcomes we gave are 3,the top three suggestions are out.
+ The words in the dictionary are shown at the top with their respective weights. The user entered a prefix "car" and as the number of outcomes we gave are 3,the top three suggestions are out.
